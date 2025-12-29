@@ -6,6 +6,8 @@ import Section from './components/Section';
 import Button from './components/Button';
 import HeroLaptop from './components/HeroLaptop';
 import { Github, Linkedin, Twitter, ExternalLink, Mail, MapPin, Calendar, Download, Globe, Award } from 'lucide-react';
+import { SpeedInsights } from "@vercel/speed-insights/next"
+import { Analytics } from "@vercel/analytics/next"
 
 // --- CONFIGURACIÓN DE IMÁGENES LOCALES ---
 // 1. Coloca tus imágenes en la carpeta "src/assets" (o similar).
